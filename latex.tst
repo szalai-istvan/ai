@@ -1,1 +1,0 @@
-https://latexeditor.lagrida.com/

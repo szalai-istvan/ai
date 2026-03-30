@@ -1,0 +1,10 @@
+[LaTeX editor]
+https://latexeditor.lagrida.com/
+
+[Markdown note template]
+<link rel="stylesheet" href="../../styles.css">
+<div class="note">
+<h1></h1>
+<h2></h2>
+<p></p>
+</div>
