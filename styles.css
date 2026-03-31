@@ -3,19 +3,10 @@ div.note {
     border-left: 6px solid #2196f3;
 }
 
-div.exercise {
-
-}
-
-div.warning {
-
-}
-
 div {
     color: #4A4A4A;
     font-family: Consolas, monaco, monospace;
-    padding-left: 12px;
-    padding-right: 24px;
+    padding: 18px;
 }
 
 div > h1 {
