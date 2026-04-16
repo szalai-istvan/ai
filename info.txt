@@ -8,3 +8,6 @@ https://latexeditor.lagrida.com/
 <h2></h2>
 <p></p>
 </div>
+
+[02-ai-engineer-core-track github]
+https://github.com/ed-donner/llm_engineering

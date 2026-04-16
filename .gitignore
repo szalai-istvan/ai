@@ -2,3 +2,5 @@
 .venv
 *.csv
 bundle.complete
+.env
+llm_engineering
